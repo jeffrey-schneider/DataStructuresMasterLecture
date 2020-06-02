@@ -1,2 +1,2 @@
-# DataStructures2020
-Source Code for Data Structures 2020
+# DataStructuresMasterLecture
+Source Code for Data Structures Master Lecture
